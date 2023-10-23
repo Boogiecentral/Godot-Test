@@ -3,3 +3,5 @@
 [node name="Node2D" type="Node2D"]
 
 [node name="hello im a test" type="Sprite2D" parent="."]
+
+[node name="i am also a test" type="Node2D" parent="hello im a test"]
